@@ -15,19 +15,19 @@ This was the project based on detection of malicious activity in the network. Us
 
 ## :orange_book: Application Functionality 
 **REMOTE CMD**
-- This allows admin to remote command line execution and get the output -
+`` This allows admin to remote command line execution and get the output ``
 **NET DEVICE SCAN**
-- To scan the entire network to check the number of device active
+`` To scan the entire network to check the number of device active ``
 **DETECT SNIFFER**
-- This was a major one where allows admin to check if there is any host running any perticular sniffer like wireshark or tcpdump and etc
+`` This was a major one where allows admin to check if there is any host running any perticular sniffer like wireshark or tcpdump and etc ``
 **ANOMALY DETECT**
-- Using the snort integration this sections detects the malicious activity in the network
+`` Using the snort integration this sections detects the malicious activity in the network ``
 **SNIFF**
-- This is basically for monitoring the newtrok
+`` This is basically for monitoring the newtrok ``
 
 ## Output
 **Home**
-![Home](https://user-images.githubusercontent.com/85948202/211370911-9188f364-af1d-48f5-9952-0967e8f87882.png?size=100)
+![Home](https://user-images.githubusercontent.com/85948202/211370911-9188f364-af1d-48f5-9952-0967e8f87882.png?size=70)
 
 **AnamolyDetection**
 ![AnamolyDetect](https://user-images.githubusercontent.com/85948202/211370964-e71e6278-22d7-4357-bc33-0fbf19152021.png)
