@@ -15,7 +15,7 @@ This was the project based on detection of malicious activity in the network. Us
 
 ## :orange_book: Application Functionality 
 **REMOTE CMD**
-- This allows admin to remote command line execution and get the output
+- This allows admin to remote command line execution and get the output -
 **NET DEVICE SCAN**
 - To scan the entire network to check the number of device active
 **DETECT SNIFFER**
