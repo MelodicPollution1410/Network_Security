@@ -40,4 +40,4 @@ This was the project based on detection of malicious activity in the network. Us
 ![Screenshot](./output/SnifferDetection.png)
 
 **Contributor**
-[![](https://avatars.githubusercontent.com/u/60136291?v=4?size=20)](https://github.com/MelodicPollution1410)
+[![](https://avatars.githubusercontent.com/u/60136291?v=4)](https://github.com/MelodicPollution1410)
