@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>842</width>
+    <height>553</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">font: 75 bold 14pt &quot;Ubuntu Condensed&quot;;
+background-color: rgb(94, 92, 100);
+
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="ssh">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>180</y>
+      <width>141</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(222, 221, 218);
+border-radius: 15px;
+</string>
+    </property>
+    <property name="text">
+     <string>REMOTE CMD</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="dec">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>290</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(222, 221, 218);
+border-radius: 15px;
+</string>
+    </property>
+    <property name="text">
+     <string> DETECT SNIFFER</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="dvscan">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>180</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(222, 221, 218);
+border-radius: 15px;
+</string>
+    </property>
+    <property name="text">
+     <string>NET DEVICE SCAN</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="amly">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>280</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(222, 221, 218);
+border-radius: 15px;
+</string>
+    </property>
+    <property name="text">
+     <string>ANOMALY DETECT</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>30</y>
+      <width>161</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 87 29pt &quot;Timmana&quot;;
+
+</string>
+    </property>
+    <property name="text">
+     <string>SVAP NTA</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="sniffer">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>370</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgb(222, 221, 218);
+border-radius: 15px;
+</string>
+    </property>
+    <property name="text">
+     <string>SNIFFING</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>842</width>
+     <height>27</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

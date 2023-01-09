@@ -1,0 +1,349 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-08-26 18:43 IST
+Initiating ARP Ping Scan at 18:43
+Scanning 255 hosts [1 port/host]
+Completed ARP Ping Scan at 18:43, 2.53s elapsed (255 total hosts)
+Initiating Parallel DNS resolution of 255 hosts. at 18:43
+Completed Parallel DNS resolution of 255 hosts. at 18:43, 0.47s elapsed
+Nmap scan report for 172.39.3.1 [host down]
+Nmap scan report for 172.39.3.2 [host down]
+Nmap scan report for 172.39.3.3 [host down]
+Nmap scan report for 172.39.3.4 [host down]
+Nmap scan report for 172.39.3.8 [host down]
+Nmap scan report for 172.39.3.9 [host down]
+Nmap scan report for 172.39.3.10 [host down]
+Nmap scan report for 172.39.3.11 [host down]
+Nmap scan report for 172.39.3.12 [host down]
+Nmap scan report for 172.39.3.13 [host down]
+Nmap scan report for 172.39.3.14 [host down]
+Nmap scan report for 172.39.3.15 [host down]
+Nmap scan report for 172.39.3.17 [host down]
+Nmap scan report for 172.39.3.18 [host down]
+Nmap scan report for 172.39.3.19 [host down]
+Nmap scan report for 172.39.3.20 [host down]
+Nmap scan report for 172.39.3.22 [host down]
+Nmap scan report for 172.39.3.23 [host down]
+Nmap scan report for 172.39.3.25 [host down]
+Nmap scan report for 172.39.3.27 [host down]
+Nmap scan report for 172.39.3.28 [host down]
+Nmap scan report for 172.39.3.29 [host down]
+Nmap scan report for 172.39.3.30 [host down]
+Nmap scan report for 172.39.3.31 [host down]
+Nmap scan report for 172.39.3.32 [host down]
+Nmap scan report for 172.39.3.33 [host down]
+Nmap scan report for 172.39.3.34 [host down]
+Nmap scan report for 172.39.3.35 [host down]
+Nmap scan report for 172.39.3.36 [host down]
+Nmap scan report for 172.39.3.37 [host down]
+Nmap scan report for 172.39.3.38 [host down]
+Nmap scan report for 172.39.3.39 [host down]
+Nmap scan report for 172.39.3.40 [host down]
+Nmap scan report for 172.39.3.41 [host down]
+Nmap scan report for 172.39.3.42 [host down]
+Nmap scan report for 172.39.3.43 [host down]
+Nmap scan report for 172.39.3.44 [host down]
+Nmap scan report for 172.39.3.45 [host down]
+Nmap scan report for 172.39.3.46 [host down]
+Nmap scan report for 172.39.3.47 [host down]
+Nmap scan report for 172.39.3.48 [host down]
+Nmap scan report for 172.39.3.49 [host down]
+Nmap scan report for 172.39.3.50 [host down]
+Nmap scan report for 172.39.3.51 [host down]
+Nmap scan report for 172.39.3.52 [host down]
+Nmap scan report for 172.39.3.53 [host down]
+Nmap scan report for 172.39.3.54 [host down]
+Nmap scan report for 172.39.3.55 [host down]
+Nmap scan report for 172.39.3.56 [host down]
+Nmap scan report for 172.39.3.57 [host down]
+Nmap scan report for 172.39.3.58 [host down]
+Nmap scan report for 172.39.3.59 [host down]
+Nmap scan report for 172.39.3.60 [host down]
+Nmap scan report for 172.39.3.61 [host down]
+Nmap scan report for 172.39.3.62 [host down]
+Nmap scan report for 172.39.3.63 [host down]
+Nmap scan report for 172.39.3.64 [host down]
+Nmap scan report for 172.39.3.65 [host down]
+Nmap scan report for 172.39.3.66 [host down]
+Nmap scan report for 172.39.3.67 [host down]
+Nmap scan report for 172.39.3.68 [host down]
+Nmap scan report for 172.39.3.69 [host down]
+Nmap scan report for 172.39.3.70 [host down]
+Nmap scan report for 172.39.3.71 [host down]
+Nmap scan report for 172.39.3.72 [host down]
+Nmap scan report for 172.39.3.73 [host down]
+Nmap scan report for 172.39.3.74 [host down]
+Nmap scan report for 172.39.3.75 [host down]
+Nmap scan report for 172.39.3.76 [host down]
+Nmap scan report for 172.39.3.77 [host down]
+Nmap scan report for 172.39.3.78 [host down]
+Nmap scan report for 172.39.3.79 [host down]
+Nmap scan report for 172.39.3.80 [host down]
+Nmap scan report for 172.39.3.81 [host down]
+Nmap scan report for 172.39.3.82 [host down]
+Nmap scan report for 172.39.3.83 [host down]
+Nmap scan report for 172.39.3.84 [host down]
+Nmap scan report for 172.39.3.85 [host down]
+Nmap scan report for 172.39.3.86 [host down]
+Nmap scan report for 172.39.3.87 [host down]
+Nmap scan report for 172.39.3.88 [host down]
+Nmap scan report for 172.39.3.89 [host down]
+Nmap scan report for 172.39.3.90 [host down]
+Nmap scan report for 172.39.3.91 [host down]
+Nmap scan report for 172.39.3.92 [host down]
+Nmap scan report for 172.39.3.93 [host down]
+Nmap scan report for 172.39.3.94 [host down]
+Nmap scan report for 172.39.3.95 [host down]
+Nmap scan report for 172.39.3.96 [host down]
+Nmap scan report for 172.39.3.97 [host down]
+Nmap scan report for 172.39.3.98 [host down]
+Nmap scan report for 172.39.3.99 [host down]
+Nmap scan report for 172.39.3.100 [host down]
+Nmap scan report for 172.39.3.101 [host down]
+Nmap scan report for 172.39.3.102 [host down]
+Nmap scan report for 172.39.3.103 [host down]
+Nmap scan report for 172.39.3.104 [host down]
+Nmap scan report for 172.39.3.105 [host down]
+Nmap scan report for 172.39.3.106 [host down]
+Nmap scan report for 172.39.3.107 [host down]
+Nmap scan report for 172.39.3.108 [host down]
+Nmap scan report for 172.39.3.109 [host down]
+Nmap scan report for 172.39.3.110 [host down]
+Nmap scan report for 172.39.3.111 [host down]
+Nmap scan report for 172.39.3.112 [host down]
+Nmap scan report for 172.39.3.113 [host down]
+Nmap scan report for 172.39.3.114 [host down]
+Nmap scan report for 172.39.3.115 [host down]
+Nmap scan report for 172.39.3.116 [host down]
+Nmap scan report for 172.39.3.117 [host down]
+Nmap scan report for 172.39.3.118 [host down]
+Nmap scan report for 172.39.3.119 [host down]
+Nmap scan report for 172.39.3.120 [host down]
+Nmap scan report for 172.39.3.121 [host down]
+Nmap scan report for 172.39.3.122 [host down]
+Nmap scan report for 172.39.3.123 [host down]
+Nmap scan report for 172.39.3.124 [host down]
+Nmap scan report for 172.39.3.125 [host down]
+Nmap scan report for 172.39.3.126 [host down]
+Nmap scan report for 172.39.3.127 [host down]
+Nmap scan report for 172.39.3.128 [host down]
+Nmap scan report for 172.39.3.129 [host down]
+Nmap scan report for 172.39.3.130 [host down]
+Nmap scan report for 172.39.3.131 [host down]
+Nmap scan report for 172.39.3.132 [host down]
+Nmap scan report for 172.39.3.133 [host down]
+Nmap scan report for 172.39.3.134 [host down]
+Nmap scan report for 172.39.3.135 [host down]
+Nmap scan report for 172.39.3.136 [host down]
+Nmap scan report for 172.39.3.137 [host down]
+Nmap scan report for 172.39.3.138 [host down]
+Nmap scan report for 172.39.3.139 [host down]
+Nmap scan report for 172.39.3.140 [host down]
+Nmap scan report for 172.39.3.141 [host down]
+Nmap scan report for 172.39.3.142 [host down]
+Nmap scan report for 172.39.3.143 [host down]
+Nmap scan report for 172.39.3.144 [host down]
+Nmap scan report for 172.39.3.145 [host down]
+Nmap scan report for 172.39.3.146 [host down]
+Nmap scan report for 172.39.3.147 [host down]
+Nmap scan report for 172.39.3.148 [host down]
+Nmap scan report for 172.39.3.149 [host down]
+Nmap scan report for 172.39.3.150 [host down]
+Nmap scan report for 172.39.3.151 [host down]
+Nmap scan report for 172.39.3.152 [host down]
+Nmap scan report for 172.39.3.153 [host down]
+Nmap scan report for 172.39.3.154 [host down]
+Nmap scan report for 172.39.3.155 [host down]
+Nmap scan report for 172.39.3.156 [host down]
+Nmap scan report for 172.39.3.157 [host down]
+Nmap scan report for 172.39.3.158 [host down]
+Nmap scan report for 172.39.3.159 [host down]
+Nmap scan report for 172.39.3.160 [host down]
+Nmap scan report for 172.39.3.161 [host down]
+Nmap scan report for 172.39.3.162 [host down]
+Nmap scan report for 172.39.3.163 [host down]
+Nmap scan report for 172.39.3.164 [host down]
+Nmap scan report for 172.39.3.165 [host down]
+Nmap scan report for 172.39.3.166 [host down]
+Nmap scan report for 172.39.3.167 [host down]
+Nmap scan report for 172.39.3.168 [host down]
+Nmap scan report for 172.39.3.169 [host down]
+Nmap scan report for 172.39.3.170 [host down]
+Nmap scan report for 172.39.3.171 [host down]
+Nmap scan report for 172.39.3.172 [host down]
+Nmap scan report for 172.39.3.173 [host down]
+Nmap scan report for 172.39.3.174 [host down]
+Nmap scan report for 172.39.3.175 [host down]
+Nmap scan report for 172.39.3.176 [host down]
+Nmap scan report for 172.39.3.177 [host down]
+Nmap scan report for 172.39.3.178 [host down]
+Nmap scan report for 172.39.3.179 [host down]
+Nmap scan report for 172.39.3.180 [host down]
+Nmap scan report for 172.39.3.181 [host down]
+Nmap scan report for 172.39.3.182 [host down]
+Nmap scan report for 172.39.3.183 [host down]
+Nmap scan report for 172.39.3.184 [host down]
+Nmap scan report for 172.39.3.185 [host down]
+Nmap scan report for 172.39.3.186 [host down]
+Nmap scan report for 172.39.3.187 [host down]
+Nmap scan report for 172.39.3.188 [host down]
+Nmap scan report for 172.39.3.189 [host down]
+Nmap scan report for 172.39.3.190 [host down]
+Nmap scan report for 172.39.3.191 [host down]
+Nmap scan report for 172.39.3.192 [host down]
+Nmap scan report for 172.39.3.193 [host down]
+Nmap scan report for 172.39.3.194 [host down]
+Nmap scan report for 172.39.3.195 [host down]
+Nmap scan report for 172.39.3.196 [host down]
+Nmap scan report for 172.39.3.197 [host down]
+Nmap scan report for 172.39.3.198 [host down]
+Nmap scan report for 172.39.3.199 [host down]
+Nmap scan report for 172.39.3.200 [host down]
+Nmap scan report for 172.39.3.201 [host down]
+Nmap scan report for 172.39.3.202 [host down]
+Nmap scan report for 172.39.3.203 [host down]
+Nmap scan report for 172.39.3.204 [host down]
+Nmap scan report for 172.39.3.205 [host down]
+Nmap scan report for 172.39.3.206 [host down]
+Nmap scan report for 172.39.3.207 [host down]
+Nmap scan report for 172.39.3.208 [host down]
+Nmap scan report for 172.39.3.209 [host down]
+Nmap scan report for 172.39.3.210 [host down]
+Nmap scan report for 172.39.3.211 [host down]
+Nmap scan report for 172.39.3.212 [host down]
+Nmap scan report for 172.39.3.213 [host down]
+Nmap scan report for 172.39.3.214 [host down]
+Nmap scan report for 172.39.3.215 [host down]
+Nmap scan report for 172.39.3.216 [host down]
+Nmap scan report for 172.39.3.217 [host down]
+Nmap scan report for 172.39.3.218 [host down]
+Nmap scan report for 172.39.3.219 [host down]
+Nmap scan report for 172.39.3.220 [host down]
+Nmap scan report for 172.39.3.221 [host down]
+Nmap scan report for 172.39.3.222 [host down]
+Nmap scan report for 172.39.3.223 [host down]
+Nmap scan report for 172.39.3.224 [host down]
+Nmap scan report for 172.39.3.225 [host down]
+Nmap scan report for 172.39.3.226 [host down]
+Nmap scan report for 172.39.3.227 [host down]
+Nmap scan report for 172.39.3.228 [host down]
+Nmap scan report for 172.39.3.229 [host down]
+Nmap scan report for 172.39.3.230 [host down]
+Nmap scan report for 172.39.3.231 [host down]
+Nmap scan report for 172.39.3.232 [host down]
+Nmap scan report for 172.39.3.233 [host down]
+Nmap scan report for 172.39.3.234 [host down]
+Nmap scan report for 172.39.3.235 [host down]
+Nmap scan report for 172.39.3.236 [host down]
+Nmap scan report for 172.39.3.237 [host down]
+Nmap scan report for 172.39.3.238 [host down]
+Nmap scan report for 172.39.3.239 [host down]
+Nmap scan report for 172.39.3.240 [host down]
+Nmap scan report for 172.39.3.241 [host down]
+Nmap scan report for 172.39.3.242 [host down]
+Nmap scan report for 172.39.3.243 [host down]
+Nmap scan report for 172.39.3.244 [host down]
+Nmap scan report for 172.39.3.245 [host down]
+Nmap scan report for 172.39.3.246 [host down]
+Nmap scan report for 172.39.3.247 [host down]
+Nmap scan report for 172.39.3.248 [host down]
+Nmap scan report for 172.39.3.249 [host down]
+Nmap scan report for 172.39.3.250 [host down]
+Nmap scan report for 172.39.3.251 [host down]
+Nmap scan report for 172.39.3.252 [host down]
+Nmap scan report for 172.39.3.253 [host down]
+Nmap scan report for 172.39.3.254 [host down]
+Nmap scan report for 172.39.3.255 [host down]
+Initiating Parallel DNS resolution of 1 host. at 18:43
+Completed Parallel DNS resolution of 1 host. at 18:43, 0.17s elapsed
+Initiating SYN Stealth Scan at 18:43
+Scanning 7 hosts [1000 ports/host]
+Discovered open port 139/tcp on 172.39.3.6
+Discovered open port 3306/tcp on 172.39.3.6
+Discovered open port 139/tcp on 172.39.3.5
+Discovered open port 445/tcp on 172.39.3.5
+Discovered open port 445/tcp on 172.39.3.6
+Discovered open port 21/tcp on 172.39.3.16
+Discovered open port 22/tcp on 172.39.3.16
+Discovered open port 135/tcp on 172.39.3.6
+Discovered open port 135/tcp on 172.39.3.5
+Discovered open port 22/tcp on 172.39.3.5
+Discovered open port 80/tcp on 172.39.3.16
+Discovered open port 7070/tcp on 172.39.3.16
+Discovered open port 9080/tcp on 172.39.3.21
+Discovered open port 4899/tcp on 172.39.3.6
+Discovered open port 5357/tcp on 172.39.3.5
+Discovered open port 6000/tcp on 172.39.3.5
+Completed SYN Stealth Scan against 172.39.3.0 in 1.23s (6 hosts left)
+Completed SYN Stealth Scan against 172.39.3.5 in 1.23s (5 hosts left)
+Completed SYN Stealth Scan against 172.39.3.24 in 1.23s (4 hosts left)
+Completed SYN Stealth Scan against 172.39.3.6 in 1.25s (3 hosts left)
+Completed SYN Stealth Scan against 172.39.3.21 in 1.26s (2 hosts left)
+Increasing send delay for 172.39.3.26 from 0 to 5 due to 26 out of 85 dropped probes since last increase.
+Completed SYN Stealth Scan against 172.39.3.16 in 2.47s (1 host left)
+Increasing send delay for 172.39.3.26 from 5 to 10 due to 11 out of 35 dropped probes since last increase.
+Increasing send delay for 172.39.3.26 from 10 to 20 due to 118 out of 393 dropped probes since last increase.
+Completed SYN Stealth Scan at 18:44, 19.69s elapsed (7000 total ports)
+Nmap scan report for 172.39.3.0
+Host is up (0.010s latency).
+All 1000 scanned ports on 172.39.3.0 are closed
+MAC Address: 10:6F:D9:60:8A:E9 (Unknown)
+
+Nmap scan report for 172.39.3.5
+Host is up (0.010s latency).
+Not shown: 994 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+6000/tcp open  X11
+MAC Address: 14:5A:FC:39:FF:43 (Unknown)
+
+Nmap scan report for 172.39.3.6
+Host is up (0.010s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+4899/tcp open  radmin
+MAC Address: E4:AA:EA:FA:70:BB (Liteon Technology)
+
+Nmap scan report for 172.39.3.16
+Host is up (0.0084s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+80/tcp   open  http
+7070/tcp open  realserver
+MAC Address: A0:88:B4:63:8F:2C (Intel Corporate)
+
+Nmap scan report for 172.39.3.21
+Host is up (0.019s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE
+9080/tcp open  glrpc
+MAC Address: 42:5D:07:FB:50:D9 (Unknown)
+
+Nmap scan report for 172.39.3.24
+Host is up (0.011s latency).
+All 1000 scanned ports on 172.39.3.24 are closed
+MAC Address: C2:37:D2:3F:FC:61 (Unknown)
+
+Nmap scan report for 172.39.3.26
+Host is up (0.0093s latency).
+All 1000 scanned ports on 172.39.3.26 are closed
+MAC Address: DE:31:5B:28:E9:D0 (Unknown)
+
+Initiating SYN Stealth Scan at 18:44
+Scanning zoro (172.39.3.7) [1000 ports]
+Completed SYN Stealth Scan at 18:44, 0.04s elapsed (1000 total ports)
+Nmap scan report for zoro (172.39.3.7)
+Host is up (0.0000090s latency).
+All 1000 scanned ports on zoro (172.39.3.7) are closed
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 256 IP addresses (8 hosts up) scanned in 23.07 seconds
+           Raw packets sent: 8740 (376.496KB) | Rcvd: 9083 (366.744KB)
