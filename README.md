@@ -27,8 +27,7 @@ This was the project based on detection of malicious activity in the network. Us
 
 ## Output
 **Home**
-![Alt text]((https://github.com/sudo-zoro/Network_Security/blob/main/output/Home.png "Optional title")
-
+![My Image](output/Home.png)
 **AnamolyDetection**
 ![Screenshot](./output/AnamolyDetect.png)
 **Network Scan**
