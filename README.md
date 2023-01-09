@@ -27,7 +27,7 @@ This was the project based on detection of malicious activity in the network. Us
 
 ## Output
 **Home**
-![Home](https://user-images.githubusercontent.com/85948202/211370911-9188f364-af1d-48f5-9952-0967e8f87882.png)
+![Home](https://user-images.githubusercontent.com/85948202/211370911-9188f364-af1d-48f5-9952-0967e8f87882.png?size=100)
 
 **AnamolyDetection**
 ![AnamolyDetect](https://user-images.githubusercontent.com/85948202/211370964-e71e6278-22d7-4357-bc33-0fbf19152021.png)
