@@ -5,7 +5,7 @@ This was the project based on detection of malicious activity in the network. Us
 ## :cookie: Requirments 
 - Python3
 - PyQt5
-***Open Source tool ***
+***Open Source tool***
 - nmap
 - snort
 
@@ -26,14 +26,17 @@ This was the project based on detection of malicious activity in the network. Us
 
 ## Output
 **Home**
-![plot](./output/Home.png)
+![Screenshot](./output/Home.png)
 **AnamolyDetection**
-![plot](./output/AnamolyDetect.png)
+![Screenshot](./output/AnamolyDetect.png)
 **Network Scan**
-![plot](./output/netScan.png)
+![Screenshot](./output/netScan.png)
 **Remote Command execution**
-![plot](./output/remoteCMD.png)
+![Screenshot](./output/remoteCMD.png)
 **network Monitoring**
-![plot](./output/sniffer.png)
+![Screenshot](./output/sniffer.png)
 **Sniffer detection**
-![plot](./output/SnifferDetection.png)
+![Screenshot](./output/SnifferDetection.png)
+
+**Contributor**
+[![](https://avatars.githubusercontent.com/u/60136291?v=4?size=50)](https://github.com/MelodicPollution1410)
