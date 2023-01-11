@@ -1,6 +1,6 @@
 # Network Sec
 
-This was the project based on detection of malicious activity in the network. Using the python and its GUI packages.
+This is a project focusing on detection of malicious activity in the network and other network scouting features integrated into a single tool.
 
 ## :cookie: Requirments 
 - Python3
